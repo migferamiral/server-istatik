@@ -1,30 +1,16 @@
-# hello-express
+**ALTYAPIYI GİRİP KULLANACAK ARKADAŞLAR PROFİL RESMİME TIKLAYIP THANK FOR HELPING TUŞUNA TIKLARSA ÇOK SEVİNİRİM 💚💚**
 
-A server that serves a webpage, its resources, and some data
+Bu altyapıyı kullanmadan önce bilmeniz gerekenler ve kullanarak kabul ettiğiniz şartlar:
 
+1- Bu altyapının komutları bana ve CodAre'deki sahiplerine aittir.
 
-## Your Project
+2- Altyapı tamamen bana ait değildir.
 
-On the front-end,
+3- Altyapıyı, Emirhan Saraç adlı Youtube kanalından aldım ve geliştirdim, şimdi komutlu hâlini paylaşıyorum. Emirhan Saraç'ın Discord sunucusu ve Youtube kanallarını aşağıda bulabilirsiniz.
 
-- Edit `views/index.html` to change the content of the webpage
-- `public/client.js` is the javacript that runs when you load the webpage
-- `public/style.css` is the styles for `views/index.html`
-- Drag in `assets`, like images or music, to add them to your project
+4- Altyapıyı çalan ve kendine aitmiş gibi gösteren, orul orul orospu çocuğu olduğunu kabul etmektedir. Onun ben aklını sikeyim.
 
-On the back-end,
+    Emirhan Saraç | Youtube : http://bit.ly/esaracyt
+    Emirhan Saraç | Discord : http://bit.ly/esaracdc //Sınırsız bağlantı, CODARE
 
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
-
-
-## Made by [Glitch](https://glitch.com/)
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-( ᵔ ᴥ ᵔ )
+    Ben, somon 戈#0001, iyi kullanmalar dilerim.
