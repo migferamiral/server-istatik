@@ -152,9 +152,4 @@ client.yetkiler = message => {
 };
 
 ///DOKUNMA
-
-
-
-
-
 client.login(client.conf.token)
